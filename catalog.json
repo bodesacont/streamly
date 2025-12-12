@@ -4,7 +4,7 @@
     "title": "My First Video",
     "year": 2025,
     "description": "An example video in the repository.",
-    "poster": "p_princessbride_19348_769a80b9.jpeg",
+    "poster": "p_princessbride_19348_769a80b9.jpg",
     "category": "TV Shows",
     "themeColor": "#ff7a59",
     "sources": [
@@ -12,27 +12,27 @@
     ]
   },
   {
-    "id": "nosferatu-1987",
-    "title": "The Princess Bride 1987",
+    "id": "the-princess-bride-1987-a",
+    "title": "The Princess Bride",
     "year": 1987,
-    "description": "Silent-era horror classic (public domain).",
+    "description": "A classic tale of true love and high adventure.",
     "poster": "p_princessbride_19348_769a80b9.jpg",
     "category": "Movies",
     "themeColor": "#6b5bff",
     "sources": [
-     { "type": "mp4", "url": "https://archive.org/download/the-princess-bride-1987_202505.mp4"}
+     { "type": "mp4", "url": "archive.org"}
     ]
   },
   {
-    "id": "nosferatu-1922",
-    "title": "The Princess Bride 1987",
-    "year": 1922,
-    "description": "Silent-era horror classic (public domain).",
+    "id": "the-princess-bride-1987-b",
+    "title": "The Princess Bride",
+    "year": 1987,
+    "description": "A classic tale of true love and high adventure (Alternate Source).",
     "poster": "p_princessbride_19348_769a80b9.jpg",
     "category": "Movies",
-    "themeColor": "#6b4bff",
+    "themeColor": "#6b5bff",
     "sources": [
-      { "type": "mp4", "url": "https://archive.org/download/Nosferatu_1025/nosferatu_512kb.mp4" }
+      { "type": "mp4", "url": "archive.org" }
     ]
-  },
+  }
 ]
