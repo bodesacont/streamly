@@ -17,7 +17,7 @@
     "year": 1987,
     "description": "Silent-era horror classic (public domain).",
     "poster": "p_princessbride_19348_769a80b9.jpg",
-    "category": "Fantasy",
+    "category": "Movies",
     "themeColor": "#6b5bff",
     "sources": [
      { "type": "mp4", "url": "https://archive.org/download/the-princess-bride-1987_202505.mp4"}
@@ -29,7 +29,7 @@
     "year": 1922,
     "description": "Silent-era horror classic (public domain).",
     "poster": "p_princessbride_19348_769a80b9.jpg",
-    "category": "Horror",
+    "category": "Movies",
     "themeColor": "#6b4bff",
     "sources": [
       { "type": "mp4", "url": "https://archive.org/download/Nosferatu_1025/nosferatu_512kb.mp4" }
