@@ -16,11 +16,11 @@
     "title": "The Princess Bride",
     "year": 1987,
     "description": "A classic tale of true love and high adventure.",
-    "poster": "p_princessbride_19348_769a80b9.jpg",
+    "poster": "IMG_3316.jpeg",
     "category": "Movies",
     "themeColor": "#6b5bff",
     "sources": [
-     { "type": "mp4", "url": "archive.org"}
+     { "type": "mp4", "url": "https://archive.org/download/jurassic-park-1993-2025-06-8-8-59-0/Jurassic%20Park%20%281993%29%202025-06-8-8-59-0.mp4"}
     ]
   },
   {
